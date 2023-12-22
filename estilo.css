@@ -28,7 +28,7 @@ main {
     height: 627px;
 
     top: 50%;
-    left: 50%;
+    left: 90%;
 
     transform: translate(-90% , -50%);
     background: url('imagens/frame-iphone.png') no-repeat top center;
